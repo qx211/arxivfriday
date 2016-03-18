@@ -1,0 +1,2 @@
+# arxivfriday
+Python countdown reminder
